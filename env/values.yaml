@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: jenkinsx-multi-cluster.wedevops.io
+    domain: jenkinsx-multi-cluster-prod.wedevops.io
     exposer: Ingress
     http: "true"
 jenkins:
